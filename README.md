@@ -32,7 +32,6 @@ The image editor includes 20 image-processing filter categories:
 ## Technologies
 
 * C++
-* Object-Oriented Programming (OOP)
 * Image Processing
 * RGB Pixel Manipulation
 
